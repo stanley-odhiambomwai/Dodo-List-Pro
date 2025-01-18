@@ -23,6 +23,10 @@ body {
     text-align: center;
     color: #9bd927;
   }
+
+  h1:hover{
+    background-color: yellow;
+  }
   
 
   form {
@@ -48,6 +52,6 @@ body {
 
 
 button:hover {
-    background-color: #1c66b5;
+    background-color: #e119c6;
   }
   
